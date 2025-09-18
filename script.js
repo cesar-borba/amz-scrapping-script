@@ -117,3 +117,5 @@ function ehListaVazia() {
   }
   return false;
 }
+
+//https://www.amazon.com.br/gp/bestsellers/books/ref=zg_bs_nav_books_0
