@@ -118,4 +118,14 @@ function ehListaVazia() {
   return false;
 }
 
+function help() {
+  console.log("- capturaLivros()\n//roda o script para a captura dos livros na página");
+  console.log("- listaLivros()\n//lista os livros da lista");
+  console.log("- limpaLista()\n//limpa a lista de livros");
+  console.log("- buscaMenorPreco()\n//traz o livro com o menor preço");
+  console.log("- buscaMaiorPreco()\n//traz o livro com o maior preço");
+  console.log("- buscaPrecoMedio()\n//traz o preço médio dos livros listados");
+  console.log("- ehListaVazia()\n//confere se a lista de livros é vazia ou não");
+}
+
 //https://www.amazon.com.br/gp/bestsellers/books/ref=zg_bs_nav_books_0
